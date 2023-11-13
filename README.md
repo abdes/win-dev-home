@@ -31,4 +31,4 @@ winget configure <path to the .yml file>/winget.dsc.yml
 
 * [Rewrap](https://marketplace.visualstudio.com/items?itemName=stkb.Rewrap-18980)
 * [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelinesPreview)
-* [Windows Template Studio](https://marketplace.visualstudio.com/items?itemName=WASTeamAccount.WindowsTemplateStudio)
+* [Template Studio for WinUI](https://marketplace.visualstudio.com/items?itemName=TemplateStudio.TemplateStudioForWinUICs)
